@@ -10,7 +10,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/brian1917/vcodeHMAC"
+	// use HMAC fork by securityRelic@github
+	"github.com/securityRelic/vcodeHMAC"
 )
 
 // Creates a new file upload http request with optional extra params

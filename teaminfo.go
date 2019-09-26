@@ -5,7 +5,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/brian1917/vcodeHMAC"
+	// use HMAC fork by securityRelic@github
+	"github.com/securityRelic/vcodeHMAC"
 )
 
 func teamInfo(credsFile string, teamID string, includeUsers bool, includeApplications bool) ([]byte, error) {

@@ -7,7 +7,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/brian1917/vcodeHMAC"
+	// use HMAC fork by securityRelic@github
+	"github.com/securityRelic/vcodeHMAC"
 )
 
 func updateMitigationInfo(credsFile, buildID, action, comment, flawList string) ([]byte, error) {

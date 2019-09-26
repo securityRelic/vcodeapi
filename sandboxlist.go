@@ -5,7 +5,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/brian1917/vcodeHMAC"
+	// use HMAC fork by securityRelic@github
+	"github.com/securityRelic/vcodeHMAC"
 )
 
 func sandboxList(credsFile, appID string) ([]byte, error) {
