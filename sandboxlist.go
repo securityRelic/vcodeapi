@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	// use HMAC fork by securityRelic@github
+	// use HMAC fork by securityRelicATgithub
 	"github.com/securityRelic/vcodeHMAC"
 )
 
