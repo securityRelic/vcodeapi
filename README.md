@@ -1,4 +1,4 @@
-Fory by SecurityRelic
+Fork by securityRelic
 
 # Veracode API Package
 [![GoDoc](https://godoc.org/github.com/brian1917/vcodeapi?status.svg)](https://godoc.org/github.com/brian1917/vcodeapi)
