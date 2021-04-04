@@ -1,5 +1,9 @@
 Forked by securityRelic
 
+> securityRelic@github: Added a quick hack back in 2019 to use Veracode sandboxes and retrieve detailed flaw report (pdf) in a targeted automated pipeline. Found brian1917/vcodeapi codebase easy to work with and functionality provided solid, but utimately moved in another direction. Keeping this for historical purposes.
+
+---
+
 # Veracode API Package
 [![GoDoc](https://godoc.org/github.com/brian1917/vcodeapi?status.svg)](https://godoc.org/github.com/brian1917/vcodeapi)
 [![Go Report Card](https://goreportcard.com/badge/github.com/brian1917/vcodeapi)](https://goreportcard.com/report/github.com/brian1917/vcodeapi)
